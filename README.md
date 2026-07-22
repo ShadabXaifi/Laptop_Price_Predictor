@@ -243,15 +243,6 @@ Estimated Laptop Price
 - 📱 Mobile Responsive UI
 - 🔍 Similar Laptop Finder
 
----
-
-# 👨‍💻 Author
-
-**Shadab Saifi**
-
-🎓 BCA Graduate  
-🤖 Machine Learning & Generative AI Enthusiast  
-🐍 Python Developer
 
 ---
 
